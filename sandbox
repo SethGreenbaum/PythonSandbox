@@ -1,0 +1,11 @@
+print("My face is bleeding")
+
+x = "xMyx xfacex xisx xbleedingx"
+
+y = x[1:3] + ' ' + x[6:10] + ' ' + x[13:15] + ' ' + x[18:26]
+
+print(y)
+print(y[::-1])
+print(y[-8:])
+print(y * 5)
+print("anus" in y)
